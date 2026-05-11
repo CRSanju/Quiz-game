@@ -70,23 +70,6 @@ Quiz-game/
 └── README.md
 ```
 
----
-
-# 🔥 Future Improvements
-
-Planned features for future updates:
-
-* Timer for each question
-* Difficulty levels
-* Randomized questions
-* Sound effects
-* High score system using Local Storage
-* More quiz categories
-* Better animations and transitions
-* Mobile UI improvements
-
----
-
 # 💡 What I Learned
 
 Through this project, I improved my understanding of:
